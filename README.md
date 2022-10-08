@@ -1,2 +1,2 @@
 # Flask Webapp
- A simple CRUD blog postiung web application based on the Flask framework
+ A simple CRUD based blog posting web application based on the Flask framework
